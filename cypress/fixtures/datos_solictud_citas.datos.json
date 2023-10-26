@@ -1,0 +1,47 @@
+{
+    "datos_solictud_ok":{
+        "info":"Datos para generar una solicitud de cita correcta por PAIS",
+        "datos":{
+            "ctipodoc":"Cédula de ciudadanía",
+            "ccedasegurado":"36689548",
+            "xnombre":"Prueba IT",
+            "xapellido":"Prueba IT",
+            "fecha_nacimiento":{
+                "dia":"16",
+                "mes":"04",
+                "anio":"1998"
+            },
+            "servicio":"Odontología",
+            "isexo":"Masculino",
+            "xtelefono":"0608759656",
+            "xcelular":"3182977898",
+            "xemail":"ricardo2roa@gmail.com",
+            "itipoasegurado":"Titular",
+            "xdescripcion":"Automatizacion de Test",
+            "xempresa":"Sigma Test",
+            "npoliza":"89456721456"
+        }
+    },
+    "datos_solictud_error_1":{
+        "info":"Datos para generar una solicitud de cita por Pais con error numero de telefono",
+        "datos":{
+            "ctipodoc":"Cédula de ciudadanía",
+            "ccedasegurado":"36689548",
+            "xnombre":"Prueba IT",
+            "xapellido":"Prueba IT",
+            "fecha_nacimiento":{
+                "dia":"16",
+                "mes":"04",
+                "anio":"1998"
+            },
+            "isexo":"Masculino",
+            "xtelefono":"06087596",
+            "xcelular":"3182977898",
+            "xemail":"ricardo2roa@gmail.com",
+            "itipoasegurado":"Titular",
+            "xdescripcion":"Automatizacion de Test",
+            "xempresa":"Sigma Test",
+            "npoliza":"89456721456"
+        }
+    }
+}

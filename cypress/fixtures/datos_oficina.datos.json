@@ -1,0 +1,66 @@
+{
+    "datos_login_ricardo":{
+        "user":"1075310701",
+        "password":"ING?Roa?7895"
+    },
+    "datos_login_sara_medicina_prueba":{
+        "user":"1111114",
+        "password":"SDec2020++"
+    },
+    "datos_login_prueba_mexico":{
+        "cdoctor":"182",
+        "user":"11311291-100",
+        "password":"SDec2020++"
+    },
+    "datos_login_prueba_colombia_QA":{
+        "user":"1075310701",
+        "password":"ING?Roa?7895"
+    },
+    "datos_login_prueba_colombia":{
+        "cdoctor":"228",
+        "user":"12747527",
+        "password":"ING_Roa?7895"
+    }
+    ,"datos_consulta_tratamiento_pendiente_182":{
+        "filtro_mes":"Abril",
+        "filtro_ano":"2022"
+    },
+    "datos_consulta_tratamiento_objetado_228":{
+        "filtro_mes":"Febrero",
+        "filtro_ano":"2022",
+        "pos":1,
+        "localizador":"155853",
+        "xnombre":"pruba prueba",
+        "xtrata":"Barniz por arcada",
+        "ndiente":"0",
+        "mensaje":"Prueba automatizada Objetado"
+    },
+    "datos_consulta_tratamiento_objetado_228_2":{
+        "filtro_mes":"Septiembre",
+        "filtro_ano":"2021",
+        "pos":8,
+        "localizador":"127532",
+        "xnombre":"maria arango",
+        "xtrata":"Amalgama posterior 1 superficie",
+        "ndiente":"46"
+    },
+    "datos_consulta_tratamiento_excluido_228":{
+        "filtro_mes":"Febrero",
+        "filtro_ano":"2022",
+        "pos":2,
+        "localizador":"177178",
+        "xnombre":"prueba prueba",
+        "xtrata":"Rx periapicales",
+        "ndiente":"11",
+        "mensaje":"Prueba automatizada Excluir"
+    },
+    "datos_consulta_tratamiento_excluido_228_2":{
+        "filtro_mes":"Febrero",
+        "filtro_ano":"2022",
+        "pos":1,
+        "localizador":"166157",
+        "xnombre":"JUAN PEDRO",
+        "xtrata":"Rx periapicales",
+        "ndiente":"11"
+    }
+}
