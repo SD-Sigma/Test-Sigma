@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "cypress:open": "cypress open",
+    "cypress:open": "cypress open -b \"electron\" --e2e",
+    "cypress:open2": "cypress run --config ",
+    "cypress:open4": "cypress run --help ",
     "test-trata-objetado-OK": "cypress run --spec 'cypress/e2e/test/cawcnuevo.cy.js' --tag 'Test' --record"
   },
   "eslintConfig": {
